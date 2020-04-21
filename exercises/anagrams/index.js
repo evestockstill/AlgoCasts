@@ -6,7 +6,7 @@
 // --- Examples
 //   anagrams('rail safety', 'fairy tales') --> True
 //   anagrams('RAIL! SAFETY!', 'fairy tales') --> True
-//   anagrams('Hi there', 'Bye there') --> False
+//   anagrams('Hi there', 'Bye there') --> Fals
 
 function anagrams(stringA, stringB) {}
 
